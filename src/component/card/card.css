@@ -1,0 +1,21 @@
+.card{
+    float:left !important;
+    max-width: 312px;
+    margin:10px
+}
+
+@import url('https://fonts.googleapis.com/css?family=Russo+One&display=swap');
+.name{
+    font-family: 'Russo One', sans-serif !important;
+    font-size: 1rem;
+    color:rgb(220, 0, 78);
+}
+
+.carticon{
+    float: right !important;
+    color: rgb(231, 54, 116);
+}
+
+.carticon:hover{
+    color: darkolivegreen;
+}

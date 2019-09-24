@@ -1,0 +1,29 @@
+.tabs{
+    margin-top: 80px;
+    background-color: rgb(234, 234, 232)    !important;
+    color:rgb(220, 0, 78) !important;
+}
+
+.respage{
+height: 1200px;
+}
+
+.requestpage{
+    height: 1200px;
+}
+
+
+.btn{
+    background-color: rgb(246, 88, 144) !important;
+    border-radius:0px !important;
+    margin-top:17px !important;
+    padding:19px !important;
+    width: 100% !important;
+    font-weight: bolder !important;
+    font-stretch: normal !important;
+}
+.orderStatus{
+    color:rgb(246, 88, 144);
+    font-weight: bolder;
+    text-align: center;
+}

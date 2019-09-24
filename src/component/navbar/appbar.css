@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Russo+One&display=swap');
+.resName{
+    display: inline-block;
+    font-family: 'Russo One', sans-serif !important;
+    font-size: 1rem;
+    margin-left:-30px !important;
+}
+
+.iconDiv{
+    display: block;
+    float: right !important;
+    width:90%;
+    text-align: right;
+}

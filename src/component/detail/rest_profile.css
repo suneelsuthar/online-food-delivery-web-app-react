@@ -1,0 +1,14 @@
+.img-fluid{
+    height: 250px !important;
+    width: 100% !important;
+}
+.order{
+    display: block;
+    float: right;
+    margin-bottom: auto;
+    margin-top: auto;
+    color:rgb(220, 0, 78);
+    border:2px solid rgb(220, 0, 78);
+    padding: 10px;
+}
+
